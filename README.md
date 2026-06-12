@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Vinicius 👋
 
 Sou estudante do Ensino Médio, entusiasta de tecnologia e focado em me tornar um Desenvolvedor de Software / Profissional de TI. Utilizo a Alura e projetos práticos para consolidar minha base técnica e lógica.
 
