@@ -7,4 +7,4 @@ Sou estudante do Ensino Médio, entusiasta de tecnologia e focado em me tornar u
 - 🧠 **Foco atual:** Aperfeiçoar lógica de programação e arquitetura de computadores
 
 ### Conecte-se comigo:
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/vinicius-de-sousa-morais-95755b3a0)
+www.linkedin.com/in/vinicius-de-sousa-morais-95755b3a0
